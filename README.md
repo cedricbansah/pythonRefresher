@@ -1,3 +1,3 @@
 # pythonRefresher
 
-Interactive Rock Paper Scissors implementing functions, if else statements, user inputs and f-escaping strings
+Interactive Rock Paper Scissors implementing dictionaries, functions, if else statements, user inputs and f-escaping strings
